@@ -33,3 +33,23 @@ li {
 .languages li:hover {
   transform: scale(1.2);
 }
+
+.popular-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.popular-item {
+  margin: 20px;
+  align-items: center;
+}
+
+.space-list-item {
+  margin-bottom: 7px;
+}
+
+.avatar {
+  width: 150px;
+  border-radius: 50%;
+}
