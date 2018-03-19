@@ -4,7 +4,7 @@ class Results extends React.Component {
   render() {
     return (
       <div>
-        Results!
+        This is the Results Page!
       </div>
     )
   }
